@@ -1,46 +1,36 @@
 <p align="center">
   <img src="https://persepolisdm.github.io/img/screen/persepolisـreadme.png" width="128px"/>
 </p>
-<h1 align="center">Persepolis Download Manager</h1>
+<h1 align="center">Download Manager</h1>
 
-[![Latest stable release](https://img.shields.io/github/release/persepolisdm/persepolis.svg?maxAge=3600)](https://github.com/persepolisdm/persepolis/releases) [![Total downloads](https://img.shields.io/github/downloads/persepolisdm/persepolis/total.svg)](https://github.com/persepolisdm/persepolis) [![GitHub license](https://img.shields.io/github/license/persepolisdm/persepolis.svg)](https://github.com/persepolisdm/persepolis/blob/master/LICENSE) [![Build Status](https://travis-ci.org/persepolisdm/persepolis.svg?branch=master)](https://travis-ci.org/persepolisdm/persepolis) [![GitHub last commit](https://img.shields.io/github/last-commit/persepolisdm/persepolis.svg)](https://github.com/persepolisdm/persepolis/commits/master) [![GitHub contributors](https://img.shields.io/github/contributors/persepolisdm/persepolis.svg)](https://github.com/persepolisdm/persepolis/graphs/contributors) [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/persepolisdm/persepolis.svg)](https://github.com/persepolisdm/persepolis/commits/master) [![AUR](https://img.shields.io/aur/version/persepolis-git.svg)](https://aur.archlinux.org/packages/persepolis-git) [![Twitter Follow](https://img.shields.io/twitter/follow/persepolisdm.svg?style=social&label=Follow)](https://twitter.com/persepolisdm)
+## Overview
 
-> **Content**  
-> - [About](https://github.com/persepolisdm/persepolis#about)  
-> - [How to install PersepolisDM](https://github.com/persepolisdm/persepolis/wiki)
-> - [FAQ](https://github.com/persepolisdm/persepolis#faq)  
-> - [Screenshots](https://github.com/persepolisdm/persepolis#screenshots)  
-> - [Credits](https://github.com/persepolisdm/persepolis#credits)  
+Looking for a reliable download manager for PC? This lightweight tool makes downloading files, videos, and archives simple, fast, and fully under your control. Large files arrive faster thanks to multi-segment downloading. Pause and resume at any time, track progress in a clean interface, and send links directly from your browser. No ads, no subscriptions, and no hidden costs.
 
-### **About**
-Persepolis is a download manager written in Python. Persepolis is a sample of free and open-source software. It's developed for GNU/Linux distributions, BSDs, macOS, and Microsoft Windows.  
+## Features
 
-### **Features**
-- Multi-segment downloading (64 connections)
-- Scheduling downloads
-- Download queuing
-- Downloading videos from Youtube and ...
-- and many more!
+- **Multi-segment downloading.** Splits files into up to 64 connections for maximum speed.
+- **Download queues.** Line up multiple files and let the download manager process them one by one.
+- **Scheduler.** Start downloads automatically at the time you choose, such as at night or off-peak hours.
+- **Video downloads.** Save videos from YouTube and other popular sites in just a few clicks.
+- **Pause and resume.** Stop any download and continue later without starting over.
+- **Browser integration.** Send links to the download manager directly from your browser.
+- **Cross-platform.** Runs on Windows, macOS, Linux, and BSD.
+- **Free and open source.** No ads, no subscriptions, no hidden costs.
 
-Demonstration clip:
-[![Demonstration video](https://img.youtube.com/vi/QHdMShFgzhQ/0.jpg)](https://www.youtube.com/watch?v=QHdMShFgzhQ)
+## Supported Platforms
 
-### How to install PersepolisDM?
-> Please checkout the Persepolis [wiki](https://github.com/persepolisdm/persepolis/wiki)
+- Windows
+- macOS
+- Linux
+- BSD
 
-### **FAQ**
-> **Where does the name come from?**
+## Why Use a Download Manager?
 
-> > [From Wikipedia:](https://en.wikipedia.org/wiki/Persepolis) Persepolis (Greek: Περσέπολις Persépolis; "the Persian city") or Parsa (Old Persian: 𐎱𐎠𐎼𐎿 Pārsa; "Persia"), 
-also known as Takht-e-Jamshid (Persian: تخت جمشيد‎‎ Taxt e Jamšid; "Throne of Jamshid"),
-was the ceremonial capital of the Achaemenid Empire (ca. 550–330 BC).
-Persepolis is situated 60 km northeast of the city of Shiraz in Fars Province, Iran. The earliest remains of Persepolis date back to 515 BC. 
-It exemplifies the Achaemenid style of architecture. UNESCO declared the ruins of Persepolis a World Heritage Site in 1979.
-
-> **How can I install Persepolis?**
-
-> > Read [our wiki](https://github.com/persepolisdm/persepolis/wiki) or check the [Persepolis website](https://persepolisdm.github.io) for more information.
-
+- **Faster downloads.** Multiple simultaneous connections make better use of your bandwidth.
+- **Reliable transfers.** Pause and resume without losing progress.
+- **Better organization.** Queues and a scheduler keep large batches under control.
+- **Full control.** Open source, with no ads or tracking.
 
 ### **Screenshots**
 
@@ -52,46 +42,38 @@ It exemplifies the Achaemenid style of architecture. UNESCO declared the ruins o
 |:---:|:---:|
 |![](https://persepolisdm.github.io/img/screen/mac_401.png)|![](https://persepolisdm.github.io/img/screen/windows.png)|
 
-### Credits
+## Usage
 
-**Alireza Amirsamimi:** Persepolis lead developer and manager  
-[GitHub](https://github.com/alireza-amirsamimi) | [E-mail](mailto:alireza.amirsamimi@gmail.com)
+### Download a file
 
-**Mohammadreza Abdollahzadeh:** Arch Linux and BSD support  
-[GitHub](https://github.com/morealaz) | [E-mail](mailto:morealaz@gmail.com)
+1. Paste a link into the app, or send it from your browser.
+2. Choose the save location and number of connections (up to 64).
+3. Click Start and track the progress in the main window.
 
-**Mostafa Asadi:** Ubuntu, Debian and Windows support  
-[GitHub](https://github.com/mostafaasadi) | [E-mail](mailto:mostafaasadi73@gmail.com)
+### Use queues
 
-**Sadegh Alirezaie:** Persepolis website support  
-[GitHub](https://github.com/Alirezaies) | [E-mail](mailto:alirezaie@sadegh.org)
+1. Add several downloads to a queue.
+2. The download manager processes them one by one.
 
-**Jafar Akhondali:** Browsers add-ons support  
-[GitHub](https://github.com/JafarAkhondali) | [E-mail](mailto:jafar.akhondali@yahoo.com)
+### Schedule downloads
 
-**Kia Hamedi:** Mac OSX support  
-[GitHub](https://github.com/Kiahamedi) | [E-mail](mailto:me@kiahamedi.com)
+1. Open the scheduler.
+2. Choose a start time, for example at night or during off-peak hours.
+3. Downloads begin automatically at the selected time.
 
-**H Rostami:** UI translation, Fedora & OpenSuse support  
-[GitHub](https://github.com/hayyan71) | [E-mail](mailto:hayyan71@yahoo.com)
+### Download videos
 
-**Ehsan Titish:** Mac OSX support   
-[GitHub](https://github.com/Maders) | [E-mail](mailto:me@maders.ir)
+1. Paste a link to a video from YouTube or another supported site.
+2. Choose the quality and format.
+3. Click Download.
 
-**MohammadAmin Vahedinia:** Mac OSX support  
-[GitHub](https://github.com/Mr0Null) | [E-mail](mailto:persepolisdm@vahedinia.me)
+### Pause and resume
 
+1. Pause any download at any time.
+2. Resume it later without starting over.
 
-[Persepolis website (En)](https://persepolisdm.github.io/) | [Persepolis website (Fa)](https://persepolisdm.github.io/fa) | [Twitter](https://twitter.com/persepolisdm) | [Telegram Channel](https://telegram.me/persepolisdm)
+### Browser integration
 
-### Acknowledgments:
-[YT-DLP project](https://github.com/yt-dlp/yt-dlp) 
+1. Install the browser extension.
+2. Send links to the download manager directly from your browser.
 
-[FFmpeg project](https://github.com/FFmpeg/FFmpeg)
-
-[PySide project](https://wiki.qt.io/Qt_for_Python)
-
-[Python Requests project](https://github.com/psf/requests)
-
----
-_Are there any mistakes in README.md? Report it in the [issue tracker](https://github.com/persepolisdm/persepolis/issues) or correct it by yourself._
